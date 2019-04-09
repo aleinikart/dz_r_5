@@ -1,0 +1,24 @@
+.blog-item{
+    border: 1px solid #ccc;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.welcome{
+    box-shadow: 0 15px 15px 0 rgba(0,0,0,0.2);
+    text-align: center;
+    position: fixed;
+    z-index: 10;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 15px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.welcome .btn{
+    background: #000;
+    color: #fff;
+}
