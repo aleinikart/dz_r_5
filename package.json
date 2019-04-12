@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/aleinikart/dz_r_5#readme",
   "dependencies": {
+    "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
     "jquery": "^3.3.1",
     "popper": "^1.0.1",
